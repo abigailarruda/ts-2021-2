@@ -42,7 +42,9 @@ public class Avaliacao {
 ## Complexidade ciclomática do código
 
 V(G) = E – N + 2
+
 V(G) = 16 - 13 + 2
+
 V(G) = 5
 
 ## Caminhos de execução
