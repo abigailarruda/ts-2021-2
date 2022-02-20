@@ -21,7 +21,7 @@ Uma corretora de seguros concede desconto sobre o prêmio anual de seguro de aut
 ## Grafo de Causa e Efeito
 
 <p align="center">
-  <img src="https://i.imgur.com/56ed2cF.png"/>
+  <img src="https://i.imgur.com/56ed2cF.png" width="70%"/>
 </p>
 
 ## Tabela de Decisão
