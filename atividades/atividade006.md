@@ -61,12 +61,12 @@ Os caminhos possíveis são:
 
 |CT  |Valor de Entrada      |Resultado Esperado                                      |
 |:--:|----------------------|--------------------------------------------------------|
-|CT01|-1.0, 11.0, 0, -8     |Valores Inválidos.                                      |
-|CT02|8.0, 7.0, 64, 20      |Reprovado por Falta.                                    |
-|CT03|2.0, 1.0, 48, 2       |Reprovado por Média.                                    |
-|CT04|5.0, 6.0, 128, 4      |Prova Extra.                                            |
-|CT05|9.0, 10.0, 64, 16     |Aprovado.                                               |
+|CT01|-1.0, 11.0, -8, 0     |Valores Inválidos.                                      |
+|CT02|8.0, 7.0, 20, 64      |Reprovado por Falta.                                    |
+|CT03|2.0, 1.0, 2, 48       |Reprovado por Média.                                    |
+|CT04|5.0, 6.0, 4, 128      |Prova Extra.                                            |
+|CT05|9.0, 10.0, 16, 64     |Aprovado.                                               |
 
 - **CT**: Caso de Teste, seguido de um valor sequencial;
-- **Valor de entrada**: valor informado para as variáveis na ordem nota1, nota2, cargaHoraria e faltas;
+- **Valor de entrada**: valor informado para as variáveis na ordem nota1, nota2, faltas e cargaHoraria;
 - **Resultado esperado**: resultado que se espera da execução da função;
